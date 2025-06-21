@@ -1,6 +1,8 @@
 # Arsenal-Transfer-News-CLI
 A command-line Python app that fetches the latest Arsenal transfer news from trusted football journalists using the Twitter API.
 
+(CHAT GPT was used to help me generate the README file)
+
 What does it do?
 - Connects to twitter via the API
 - Pulls tweets from reputable sources (e.g. Fabrizio Romano, David Ornstein etc....)
